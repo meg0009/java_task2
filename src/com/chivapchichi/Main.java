@@ -40,9 +40,11 @@ public class Main {
         Ex4.method();
 
         System.out.println("===================================");
-        System.out.println("Ex5:");
+        System.out.println("Ex6:");
         System.out.println("Факториал 1000 = " + Ex6.factorial(1000));
         System.out.println("Факториал 1000 = " + Ex6.factorial(BigInteger.valueOf(1000)));
+        System.out.println("Факториал 0 = " + Ex6.factorial(0));
+        System.out.println("Факториал 0 = " + Ex6.factorial(BigInteger.valueOf(0)));
 
         System.out.println("===================================");
         System.out.println("Ex13:");
@@ -53,6 +55,10 @@ public class Main {
         System.out.println("Ex5:");
         Point p = new Point(3, 4).translate(1, 3).scale(.5);
         System.out.println(p);
+        Point p2 = new Point();
+        System.out.println(p2);
+        Point p3 = new Point().translate(2, 5).scale(.2);
+        System.out.println(p3);
 
         System.out.println("===================================");
         System.out.println("Ex9:");
