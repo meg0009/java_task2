@@ -1,17 +1,16 @@
 package com.chivapchichi;
 
-import com.chivapchichi.Ch3.Employee;
-import com.chivapchichi.Ch3.Measurable;
-import com.chivapchichi.Ch4.Circle;
-import com.chivapchichi.Ch4.Line;
-import com.chivapchichi.Ch4.Rectangle;
-import com.chivapchichi.Ch4.Shape;
+import com.chivapchichi.ch3.Employee;
+import com.chivapchichi.ch3.Measurable;
+import com.chivapchichi.ch4.Circle;
+import com.chivapchichi.ch4.Line;
+import com.chivapchichi.ch4.Rectangle;
+import com.chivapchichi.ch4.Shape;
 import com.chivapchichi.ch1.*;
 import com.chivapchichi.ch2.Car;
 import com.chivapchichi.ch2.Point;
 
 import java.math.BigInteger;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.chivapchichi.Ch3;
+package com.chivapchichi.ch3;
 
 public class Employee implements Measurable {
     private double salary;

@@ -1,4 +1,4 @@
-package com.chivapchichi.Ch3;
+package com.chivapchichi.ch3;
 
 public interface Measurable {
     double getMeasure();

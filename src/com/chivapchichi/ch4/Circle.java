@@ -1,4 +1,4 @@
-package com.chivapchichi.Ch4;
+package com.chivapchichi.ch4;
 
 import com.chivapchichi.ch2.Point;
 
